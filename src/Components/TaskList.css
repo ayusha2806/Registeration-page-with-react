@@ -1,0 +1,14 @@
+/* components/TaskList.css */
+
+.task-list-container {
+  margin: 20px 0;
+}
+
+.task-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.task-item {
+  margin-bottom: 10px;
+}
